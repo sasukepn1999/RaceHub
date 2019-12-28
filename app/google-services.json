@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91117619085",
+    "firebase_url": "https://uprace-e5897.firebaseio.com",
+    "project_id": "uprace-e5897",
+    "storage_bucket": "uprace-e5897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91117619085:android:b96223dad9507fb8a29fc4",
+        "android_client_info": {
+          "package_name": "com.thinh.racehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91117619085-vidl59v0fv6npoolmeki1sj3ogdn75ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thinh.racehub",
+            "certificate_hash": "6a26b2d922dd869ff2811977b3f15bdf12f3bb5a"
+          }
+        },
+        {
+          "client_id": "91117619085-a0kobsh5m2q5qauu9lpjt2taohhnu66m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv68UE_Q7jtjTw40fK5qIzCen88KnlVh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91117619085-a0kobsh5m2q5qauu9lpjt2taohhnu66m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
